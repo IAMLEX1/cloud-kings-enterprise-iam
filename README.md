@@ -1,6 +1,10 @@
 
 # Cloud Kings Enterprise IAM
 
+## Solution Architecture
+
+![Enterprise IAM Architecture](evidence/enterprise-iam-architecture.png)
+
 ## Project Overview
 
 An enterprise identity and access management portfolio project demonstrating employee lifecycle management, hybrid identity, authentication, authorization, privileged access, and identity governance.
