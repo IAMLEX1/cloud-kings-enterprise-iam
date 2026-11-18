@@ -69,7 +69,34 @@ During an employee transfer from IT Support to Cloud Engineering, a newly create
 
 ## Project Evidence
 
-Configuration screenshots, validation results, and troubleshooting evidence are organized under `evidence/`.
+The following screenshots demonstrate the Cloud Kings IAM workflows.
+
+### 1. HR-Driven Employee Onboarding
+
+![HR Onboarding CSV](evidence/1-HR-CSV.png)
+
+![Active Directory User Created](evidence/2-ADUC-user-created.png)
+
+![Microsoft Entra Cloud Sync](evidence/3-Entra-Cloud-Sync.png)
+
+### 2. AWS SSO and SCIM Provisioning
+
+![HR Onboarding Automation](evidence/4-HR-Onboarding-Script.png)
+
+![AWS Enterprise Application Assignment](evidence/5-AWS-Enterprise-App-Assignment.png)
+
+![AWS SCIM Provisioning](evidence/6-AWS-SCIM-Provisioning.png)
+
+![AWS SAML SSO](evidence/7-AWS-SAML-SSO.png)
+
+![AWS ReadOnlyAccess Denied Test](evidence/8-AWS-ReadOnlyAccess-Denied.png)
+
+### 3. OIDC and OAuth 2.0
+
+![OIDC OAuth2 Microsoft Graph Success](evidence/23-OIDC-OAuth2-Joan-Graph-Success.png)
+
+For additional evidence, see the [evidence directory](evidence/).
+
 
 ## Security Principles
 
