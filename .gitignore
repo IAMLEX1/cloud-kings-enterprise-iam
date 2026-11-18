@@ -1,0 +1,36 @@
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+secrets.json
+
+# Node.js / React
+node_modules/
+dist/
+coverage/
+
+# Python
+__pycache__/
+*.pyc
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+crash.log
+
+# Editor and temporary files
+.vscode/
+*.log
+*.tmp
+*~
