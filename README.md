@@ -73,6 +73,8 @@ During an employee transfer from IT Support to Cloud Engineering, a newly create
 
 ## Project Evidence
 
+**[View the Complete IAM Implementation & Evidence Walkthrough](docs/Evidence-Walkthrough.md)**
+
 The following screenshots demonstrate the Cloud Kings IAM workflows.
 
 ### 1. HR-Driven Employee Onboarding
